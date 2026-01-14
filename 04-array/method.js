@@ -15,9 +15,9 @@ console.log(typeof age); // object
 let age1 = age.toString();
 console.log(typeof age1); // string
 console.log(veg.concat(age)); // joins two array 
-let comb = age.unshift(55); // retun 6 as counts length after adding and change in age
+let comb = age.unshift(55); // retun 6 as counts length after adding and change in age // add at beginning
 console.log(comb);
 console.log(age); // 
-console.log(age.shift()); // return deleted from first and return also change in array
+console.log(age.shift()); // return deleted from first and return also change in array // delete at beginning
 
 
