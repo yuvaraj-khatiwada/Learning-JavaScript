@@ -1,0 +1,13 @@
+div{
+    height: 100px;
+    width: 100px;
+    background: grey;
+    color: green;
+}
+p{
+    height: 100px;
+    width: 200px;
+    color: red;
+    background: purple;
+    text-align: center;
+    }
