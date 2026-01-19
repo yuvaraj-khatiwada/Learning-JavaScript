@@ -40,3 +40,21 @@ body{
     border-radius: 9px;
     border: none;
 }
+#new-btn{
+    background: black;
+    color: white;
+    padding: 2vmin;
+    font-size: 2vmin;
+    border-radius: 9px;
+    border: none;
+}
+#msg{
+    color: white;
+    font-size: 5vmin;
+}
+.msg-container{
+    height: 15vmin;
+}
+.hide{
+    display: none;
+}
