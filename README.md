@@ -5,6 +5,10 @@ This repository contains my JavaScript practice. I am learning the basics and th
 -loop and string 
 -array 
 -function and method 
+-dom
+-events
+- project 1. Tic-Tac-Toe
+-project 2. Seasors paper and rock 
 .
 This list will keep increasing in the coming days 
 
