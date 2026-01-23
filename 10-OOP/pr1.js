@@ -17,7 +17,7 @@ class user{
 class admin1 extends user{
     editData() {
         Data = "Editing the data";
-        console.log(Data);
+      console.log(Data);
     }
 }
 let student1 = new user("Yuvaraj" , "abc@gmail.com");
