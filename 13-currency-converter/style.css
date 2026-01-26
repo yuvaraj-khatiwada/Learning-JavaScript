@@ -61,5 +61,8 @@ input:focus, select:focus{
 .btn:hover{
     background: #16a34a;
 }
+.msg{
+    display: none;
+}
 
 
